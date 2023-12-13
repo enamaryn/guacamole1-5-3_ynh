@@ -1,5 +1,5 @@
 SOURCE_URL=https://downloads.apache.org/guacamole/1.5.3/source/guacamole-client-1.5.3.tar.gz
-SOURCE_SUM=a8d4813feaeb1e6f35fbfd2cf57cb0429db2225960cbfed36252f65ac93dffc4
+SOURCE_SUM=78f90f1012a3aa3db886fa7e215e99833735a6235fb4b0624391b224f7e1ce2c
 SOURCE_SUM_PRG=sha256sum
 SOURCE_FORMAT=tar.gz
 SOURCE_IN_SUBDIR=true
